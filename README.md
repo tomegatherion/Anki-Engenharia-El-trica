@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este repositório contém um conjunto de flashcards criados no aplicativo Anki, cobrindo tópicos relevantes para técnicos industriais, eletricistas e qualquer pessoa interessada em estudar normas técnicas, normas de concessionárias de energia e conteúdo utilizado no dia a dia de um projetista elétrico. O objetivo é fornecer um material de estudo acessível e abrangente para a comunidade de engenharia elétrica.
+Este repositório contém um conjunto de flashcards criados no aplicativo Anki, cobrindo tópicos relevantes para técnicos industriais, engenheiros, eletricistas e qualquer pessoa interessada em estudar normas técnicas, normas de concessionárias de energia e conteúdo utilizado no dia a dia de um projetista elétrico. O objetivo é fornecer um material de estudo acessível e abrangente para a comunidade de engenharia elétrica.
 
 ## Estrutura do Repositório
 
